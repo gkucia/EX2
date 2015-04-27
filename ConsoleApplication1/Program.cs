@@ -83,7 +83,7 @@ namespace Exercise2
             }
 
             //კლასის ობიექტის შექმნა და ინიციალიზაცია
-            //github გიორგი
+            //github 
             Country C1 = new Country(capital, number1, number2 );
             C1.compare();
 
